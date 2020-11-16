@@ -1,5 +1,6 @@
 import cv2
 
+#this number may need to be changed to fit your needs
 camera_port = 1
 ramp_frames = 30
 
